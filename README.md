@@ -14,4 +14,5 @@
 
 
 #№ А вот какое фото будет вместо фото:
+
 ![Ничего не потеряли](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Felis_silvestris_silvestris.jpg/413px-Felis_silvestris_silvestris.jpg)
